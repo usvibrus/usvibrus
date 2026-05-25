@@ -3,8 +3,6 @@
 
 - Currently Working on in **Software Engineer At Zectos**
 
-- Look to contribute on **React ,javascript,Front-end projects**
-
 - Connect with me **https://www.linkedin.com/in/uday-bhamre-a7a56a220/**
 
 <h2 align="left">Connect with me:</h2>
