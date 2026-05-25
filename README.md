@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Uday Bhamre</h1>
 <h3 align="center">A Full Stack Developer and Problem Solver</h3>
 
-- Currently Working on in **Google Student Developer Club**
+- Currently Working on in **Software Engineer At Zectos**
 
 - Look to contribute on **React ,javascript,Front-end projects**
 
